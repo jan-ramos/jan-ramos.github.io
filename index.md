@@ -20,7 +20,8 @@ I have several years of industry experience, primarily with Progressive Insuranc
 
 ## About My Advisor
 
-Advisor info goes here.
+
+[Dr. Nicholas Lytle](https://www.linkedin.com/in/nick-lytle-ph-d-a8374847) is the Associate Director of Research for OMSCS (Online Master of Science in Computer Science) at the Georgia Institute of Technology. Dr. Lytle earned his Ph.D. in Computer Science from North Carolina State University, following his undergraduate studies at the University of Virginia, where he earned a B.S. in Computer Science. With a focus on computing education, Dr. Lytle has conducted research in the Game2Learn Lab under Dr. Tiffany Barnes at North Carolina State University, exploring the effective design of computational thinking activities within core K-12 courses. His passion lies in developing adaptive technologies to aid students in learning programming and computational thinking, aiming to empower teachers to effectively introduce these concepts into their classrooms. His academic journey reflects a commitment to improving computing education for all through innovative and engaging approaches.
 
 ## About My Project
 
